@@ -14,3 +14,9 @@ Educational Timeline:<br/>
 |Jan Selected for Bootcamp.<br/>
 |Feb Elected as a team leader in C Bootcamp.<br/>
 |Mar Received application to join WeThinkCode_.<br/>
+|May Libft                125/100<br/>
+|Jun Get_Next_line        125/100<br/>
+|Jul-Aug C-Exam           91 /100<br/>
+|Sep Piscine PHP Bootcamp 66 /100<br/>
+|Oct Camagru              125/100<br/>
+\
